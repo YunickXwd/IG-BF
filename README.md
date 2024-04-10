@@ -11,8 +11,7 @@ pkg install python -y && pkg install git -y
 ```
 #### Run
 ```
-git clone --depth 1 https://github.com/UNIKBAAP/UXRXTV6
-cd UXRXTV6
-pip install -r requirements.txt
+git clone --depth 1 https://github.com/UNIKBAAP/IG-BF
+cd IG-BF
 python3 run.py
 ```

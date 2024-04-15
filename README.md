@@ -11,7 +11,7 @@ pkg install python -y && pkg install git -y
 ```
 #### Run
 ```
-git clone --depth 1 https://github.com/UNIKBAAP/IG-BF
+git clone --depth 1 https://github.com/Unik-Xwd/IG-BF
 cd IG-BF
 python3 run.py
 ```

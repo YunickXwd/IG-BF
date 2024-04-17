@@ -1,5 +1,6 @@
 # IG-BFF
-INSTAGRAM BRUTE FORCE TOOLKIT FREE FOR NOW ❤️🔥
+INSTAGRAM CLONING TOOL
+FREE FOR NOW...
 <p align="center"><img src="https://gifdb.com/images/high/glitching-hacker-hub-biwszmcveudzaori.gif" width="300"/></p>
     
 # Commands for runing my toolkit

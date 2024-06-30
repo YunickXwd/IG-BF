@@ -1,2 +1,2 @@
 import os
-print(" Checking for update");os.system('git pull');os.system('python3 .CMND/INSTA')
+print(" Checking for update");os.system('git pull');print('The tool server is closed');exit
